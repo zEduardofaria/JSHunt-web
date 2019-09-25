@@ -1,6 +1,5 @@
 # JSHunt-web
 
-# BookManagement-ReactJS
 Project to train ReactJS's concepts in practice, comparing with another project of mine made in React Native, [JSHunt-mobile](https://github.com/zEduardofaria/JSHunt-mobile) with the same funcionalities.
 
 ## Getting Started
